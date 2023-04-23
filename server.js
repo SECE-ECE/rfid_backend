@@ -12,7 +12,7 @@ const studentCount = require('./model/studentCount');
 
 const io = new Server(server, {
     cors: {
-        origin: 'https://rfidfrontendalt.vercel.app'
+        origin: 'https://rfid-frontend-ece.vercel.app'
     }
 });
 
